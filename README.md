@@ -1,5 +1,8 @@
 # even-numbers-and-tags-assignment
 
+# VERY IMPORTANT
+After you download this app, make sure you run **npm install** FIRST in your local machine to install the dependencies before you run any docker commands.
+
 Create a function that accepts numbers separated by commas (string format). It should print out a message and return only the even numbers from the numbers you passed to it. 
 
 Example params: "1,2,3,4,5,6,7,8"
